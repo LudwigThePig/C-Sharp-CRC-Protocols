@@ -1,0 +1,9 @@
+/Users/morgan.galvin/code/CSharp/CRCAutosar/CRCAutosar/obj/Debug/CRCAutosar.csprojAssemblyReference.cache
+/Users/morgan.galvin/code/CSharp/CRCAutosar/CRCAutosar/bin/Debug/CRCAutosar.dll
+/Users/morgan.galvin/code/CSharp/CRCAutosar/CRCAutosar/bin/Debug/CRCAutosar.pdb
+/Users/morgan.galvin/code/CSharp/CRCAutosar/CRCAutosar/bin/Debug/nunit.framework.dll
+/Users/morgan.galvin/code/CSharp/CRCAutosar/CRCAutosar/bin/Debug/nunit.framework.pdb
+/Users/morgan.galvin/code/CSharp/CRCAutosar/CRCAutosar/bin/Debug/nunit.framework.xml
+/Users/morgan.galvin/code/CSharp/CRCAutosar/CRCAutosar/obj/Debug/CRCAutosar.csproj.CopyComplete
+/Users/morgan.galvin/code/CSharp/CRCAutosar/CRCAutosar/obj/Debug/CRCAutosar.dll
+/Users/morgan.galvin/code/CSharp/CRCAutosar/CRCAutosar/obj/Debug/CRCAutosar.pdb
